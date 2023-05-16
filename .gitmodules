@@ -1,0 +1,31 @@
+[submodule "pyro"]
+	path = pyro
+    url = https://github.com/pyro-ppl/pyro.git
+
+[submodule "numpyro"]
+	path = pyro
+    url = https://github.com/pyro-ppl/numpyro.git
+
+[submodule "funsor"]
+	path = pyro
+    url = https://github.com/pyro-ppl/funsor.git
+
+[submodule "pyro-api"]
+	path = pyro
+    url = https://github.com/pyro-ppl/pyro-api.git
+
+[submodule "pyroed"]
+	path = pyro
+    url = https://github.com/pyro-ppl/pyroed.git
+
+[submodule "datasets"]
+	path = pyro
+    url = https://github.com/pyro-ppl/datasets.git
+
+[submodule "community"]
+	path = pyro
+    url = https://github.com/pyro-ppl/community.git
+
+[submodule "Pyro-M5-Starter-Kit"]
+	path = pyro
+    url = https://github.com/pyro-ppl/Pyro-M5-Starter-Kit.git
